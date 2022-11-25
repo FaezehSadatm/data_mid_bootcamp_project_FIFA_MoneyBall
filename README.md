@@ -1,4 +1,4 @@
-# data_mid_bootcamp_project_FIFA_MoneyBall
+# Mini_project_FIFA_MoneyBall
 This repository contains FIFA 2021 Player & Team ratings scraped from web.
 
 1 - Problem (case study)
